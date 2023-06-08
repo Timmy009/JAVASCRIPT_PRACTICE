@@ -6,7 +6,7 @@ const SCHOOL = "Semicolon Africa";
 
 age = 25;
 
-SCHOOL = "AltSchool";
+// SCHOOL = "AltSchool";
 
 
 console.log(age);
